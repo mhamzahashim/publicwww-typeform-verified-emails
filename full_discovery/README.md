@@ -4,6 +4,13 @@ Generated from the PublicWWW API on 2026-08-07.
 
 ## Files
 
+Start with [`VIEW_ME_FIRST.md`](VIEW_ME_FIRST.md), or download the formatted [Excel workbook](typeform_leads_readable.xlsx).
+
+- `valid_emails_display.csv` — small, readable one-row-per-email list of the verified subset.
+- `valid_domains_display.csv` — one-row-per-domain list of domains with verified emails.
+- `email_candidates_display.csv` — readable candidate list from the PublicWWW email query.
+- `all_domains_part_01.csv` through `all_domains_part_08.csv` — complete domain list split into browser-friendly files.
+
 - `typeform_all_one_domain_verified.csv` — canonical one-row-per-domain output with PublicWWW email candidates, indexed Typeform URL columns, and verification columns.
 - `typeform_all_one_domain_with_indexed_forms.csv` — discovery output before vrfymail results.
 - `typeform_verified_site_contact_emails.csv` — only domains with at least one `deliverable` same-domain role mailbox.
