@@ -6,6 +6,8 @@ Generated from the PublicWWW API on 2026-08-07.
 
 Start with [`VIEW_ME_FIRST.md`](VIEW_ME_FIRST.md), or download the formatted [Excel workbook](typeform_leads_readable.xlsx).
 
+The earlier 101 verified emails were **not** a scan of all 35K domains. They came from the limited PublicWWW snippet-email pass. A separate first-party homepage/contact scan is now running across all canonical domains; its live progress is available in [`live_contact_candidates_in_progress.csv`](live_contact_candidates_in_progress.csv) and will be replaced by a final classified/verified file when complete.
+
 - `valid_emails_display.csv` — small, readable one-row-per-email list of the verified subset.
 - `valid_domains_display.csv` — one-row-per-domain list of domains with verified emails.
 - `email_candidates_display.csv` — readable candidate list from the PublicWWW email query.
