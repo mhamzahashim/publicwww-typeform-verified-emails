@@ -1,0 +1,21 @@
+{
+  "competitor_sites_with_any_strict_mx_email": 623,
+  "competitor_sites_with_any_dns_email": 697,
+  "competitor_sites_with_role_strict_mx_email": 335,
+  "strict_mx_email_rows": 1858,
+  "relationship_counts_strict_mx": {
+    "site_domain": 1028,
+    "shared_external_domain": 489,
+    "external_company_domain": 243,
+    "third_party_provider": 98
+  },
+  "excluded_advance_local": 0,
+  "files": [
+    "competitor_only_public_emails_valid_mx.csv",
+    "competitor_only_public_email_sites_valid_dns.csv",
+    "competitor_only_public_email_sites_valid_mx_strict.csv",
+    "competitor_only_public_email_sites_valid_role_mx.csv",
+    "competitor_only_excluded_advance_local.csv"
+  ],
+  "validation_note": "Strict export requires an MX record. This is domain-level validation, not mailbox-level deliverability."
+}

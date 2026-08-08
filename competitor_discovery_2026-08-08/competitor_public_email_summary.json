@@ -1,0 +1,26 @@
+{
+  "input_sites": 2795,
+  "vendor_domains_excluded": 4,
+  "advance_local_excluded": 0,
+  "included_sites": 2791,
+  "public_email_records": 4702,
+  "valid_mx_or_a_fallback_records": 4432,
+  "validation_status_counts": {
+    "valid_mx": 3947,
+    "no_mail_dns": 270,
+    "valid_a_fallback": 485
+  },
+  "relationship_counts": {
+    "site_domain": 2536,
+    "external_company_domain": 701,
+    "shared_external_domain": 1278,
+    "third_party_provider": 187
+  },
+  "output_files": [
+    "competitor_public_emails.csv",
+    "competitor_public_email_sites.csv",
+    "competitor_public_email_sites_valid_mx.csv",
+    "competitor_public_email_excluded_advance_local.csv"
+  ],
+  "validation_limit": "MX/A DNS validation only; mailbox-level deliverability requires a separate verifier and was not claimed."
+}

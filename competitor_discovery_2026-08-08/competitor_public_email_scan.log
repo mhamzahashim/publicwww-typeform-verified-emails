@@ -1,0 +1,61 @@
+input_sites=2795 already_scanned=0 todo=2795 snippets_domains=4
+scanned=50/2795
+scanned=100/2795
+scanned=150/2795
+scanned=200/2795
+scanned=250/2795
+scanned=300/2795
+scanned=350/2795
+scanned=400/2795
+scanned=450/2795
+scanned=500/2795
+scanned=550/2795
+scanned=600/2795
+scanned=650/2795
+scanned=700/2795
+scanned=750/2795
+scanned=800/2795
+scanned=850/2795
+scanned=900/2795
+scanned=950/2795
+scanned=1000/2795
+scanned=1050/2795
+scanned=1100/2795
+scanned=1150/2795
+scanned=1200/2795
+scanned=1250/2795
+scanned=1300/2795
+scanned=1350/2795
+scanned=1400/2795
+scanned=1450/2795
+scanned=1500/2795
+input_sites=2795 already_scanned=1527 todo=1268 snippets_domains=4
+scanned=50/1268
+scanned=100/1268
+scanned=150/1268
+scanned=200/1268
+scanned=250/1268
+scanned=300/1268
+scanned=350/1268
+scanned=400/1268
+scanned=450/1268
+scanned=500/1268
+scanned=550/1268
+scanned=600/1268
+scanned=650/1268
+scanned=700/1268
+scanned=750/1268
+scanned=800/1268
+scanned=850/1268
+scanned=900/1268
+scanned=950/1268
+scanned=1000/1268
+scanned=1050/1268
+scanned=1100/1268
+scanned=1150/1268
+scanned=1200/1268
+scanned=1250/1268
+scanned=1268/1268
+included_sites=2791 excluded_advance=0 unique_emails=4702 unique_email_domains=1972
+dns_status_counts {'no_mail_dns': 181, 'valid_a_fallback': 237, 'valid_mx': 1554}
+{"input_sites": 2795, "vendor_domains_excluded": 4, "advance_local_excluded": 0, "included_sites": 2791, "public_email_records": 4702, "valid_mx_or_a_fallback_records": 4432, "validation_status_counts": {"valid_mx": 3947, "no_mail_dns": 270, "valid_a_fallback": 485}, "relationship_counts": {"site_domain": 2536, "external_company_domain": 701, "shared_external_domain": 1278, "third_party_provider": 187}, "output_files": ["competitor_public_emails.csv", "competitor_public_email_sites.csv", "competitor_public_email_sites_valid_mx.csv", "competitor_public_email_excluded_advance_local.csv"], "validation_limit": "MX/A DNS validation only; mailbox-level deliverability requires a separate verifier and was not claimed."}
