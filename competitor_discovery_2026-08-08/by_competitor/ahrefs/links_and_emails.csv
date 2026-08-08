@@ -1,0 +1,8 @@
+domain,homepage_url,all_emails,site_domain_emails,parent_company_emails,shared_external_emails,external_company_emails,third_party_provider_emails,competitors,detected_competitor,categories,email_count,email_status,notes
+avira.com,https://www.avira.com/,business-sales@avira.com ; info@avira.com,business-sales@avira.com ; info@avira.com,,,,,Ahrefs,Ahrefs,seo ; target,2,valid_mx_email_found,
+breitbart.com,https://www.breitbart.com/,sales@breitbart.com,sales@breitbart.com,,,,,Ahrefs,Ahrefs,seo ; target,1,valid_mx_email_found,
+fineartamerica.com,https://fineartamerica.com/,press@pixels.com,,,,press@pixels.com,,Ahrefs,Ahrefs,seo ; target,1,valid_mx_email_found,
+keepo.me,https://keepo.me/,support@keepo.me,support@keepo.me,,,,,Ahrefs,Ahrefs,seo ; target,1,valid_mx_email_found,
+shahrekhabar.com,https://www.shahrekhabar.com/,info@shahrekhabar.com,info@shahrekhabar.com,,,,,Ahrefs,Ahrefs,seo ; target,1,valid_mx_email_found,
+squarespace.com,https://www.squarespace.com/,support@squarespace.com,support@squarespace.com,,,,,Ahrefs,Ahrefs,seo ; target,1,valid_mx_email_found,
+turkiyegazetesi.com.tr,https://www.turkiyegazetesi.com.tr/,info@dijitalvarliklar.com.tr,,,,info@dijitalvarliklar.com.tr,,Ahrefs,Ahrefs,seo ; target,1,valid_mx_email_found,

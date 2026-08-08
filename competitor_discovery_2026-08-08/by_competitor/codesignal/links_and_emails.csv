@@ -1,0 +1,12 @@
+domain,homepage_url,all_emails,site_domain_emails,parent_company_emails,shared_external_emails,external_company_emails,third_party_provider_emails,competitors,detected_competitor,categories,email_count,email_status,notes
+acapital.com,https://acapital.com/,admin@acapital.com,admin@acapital.com,,,,,CodeSignal,CodeSignal,hirevue,1,valid_mx_email_found,
+acutehat.com,https://acutehat.com/,hello@acutehat.com,hello@acutehat.com,,,,,CodeSignal,CodeSignal,hirevue,1,valid_mx_email_found,
+bestlearningways.com,https://bestlearningways.com/,contact@bestlearningways.com,contact@bestlearningways.com,,,,,CodeSignal,CodeSignal,hirevue,1,valid_mx_email_found,
+codingtests.online,https://codingtests.online/,info@codingtests.online,info@codingtests.online,,,,,CodeSignal,CodeSignal,hirevue,1,valid_mx_email_found,
+cyberfox.net.pe,https://cyberfox.net.pe/,admin@cyberfox.net.pe ; admin@peruvianhosting.net,admin@cyberfox.net.pe,,,admin@peruvianhosting.net,,CodeSignal,CodeSignal,hirevue,2,valid_mx_email_found,
+developersindia.in,https://developersindia.in/,contact.developersindia@gmail.com,,,,,contact.developersindia@gmail.com,CodeSignal,CodeSignal,hirevue,1,valid_mx_email_found,
+formula.vc,https://formula.vc/,info@formula.vc,info@formula.vc,,,,,CodeSignal,CodeSignal,hirevue,1,valid_mx_email_found,
+knakdigital.com,https://knakdigital.com/,info@knakdigital.com,info@knakdigital.com,,,,,CodeSignal ; VidCruiter,CodeSignal,hirevue,1,valid_mx_email_found,
+lastroundai.com,https://lastroundai.com/,contact@lastroundai.com ; sales@lastroundai.com ; support@lastroundai.com,contact@lastroundai.com ; sales@lastroundai.com ; support@lastroundai.com,,,,,CodeSignal,CodeSignal,hirevue,3,valid_mx_email_found,
+leetcodewizard.io,https://leetcodewizard.io/,support@leetcodewizard.io,support@leetcodewizard.io,,,,,CodeSignal,CodeSignal,hirevue,1,valid_mx_email_found,
+qualified-2024.webflow.io,https://qualified-2024.webflow.io/,team@qualified.io,,,,team@qualified.io,,CodeSignal,CodeSignal,hirevue,1,valid_mx_email_found,

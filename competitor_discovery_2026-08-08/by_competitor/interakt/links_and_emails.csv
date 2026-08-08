@@ -1,0 +1,3 @@
+domain,homepage_url,all_emails,site_domain_emails,parent_company_emails,shared_external_emails,external_company_emails,third_party_provider_emails,competitors,detected_competitor,categories,email_count,email_status,notes
+naapbooks.com,https://naapbooks.com/,info@naapbooks.com,info@naapbooks.com,,,,,Interakt,Interakt,whatsapp,1,valid_mx_email_found,
+scalex.co.in,https://scalex.co.in/,marketing@tiaano.com,,,marketing@tiaano.com,,,Interakt,Interakt,whatsapp,1,valid_mx_email_found,

@@ -1,0 +1,4 @@
+domain,homepage_url,all_emails,site_domain_emails,parent_company_emails,shared_external_emails,external_company_emails,third_party_provider_emails,competitors,detected_competitor,categories,email_count,email_status,notes
+brundt.com,https://brundt.com/,info@brundt.com,info@brundt.com,,,,,Twilio,Twilio,whatsapp,1,valid_mx_email_found,
+getwheelo.com,https://getwheelo.com/,support@wheelo.in,,,,support@wheelo.in,,Twilio,Twilio,whatsapp,1,valid_mx_email_found,
+mcalleninsurancegroup.com,https://mcalleninsurancegroup.com/,info@mcalleninsurancegroup.com,info@mcalleninsurancegroup.com,,,,,Twilio,Twilio,whatsapp,1,valid_mx_email_found,

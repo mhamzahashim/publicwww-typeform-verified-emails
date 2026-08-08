@@ -1,0 +1,6 @@
+domain,homepage_url,all_emails,site_domain_emails,parent_company_emails,shared_external_emails,external_company_emails,third_party_provider_emails,competitors,detected_competitor,categories,email_count,email_status,notes
+futureworkseries.com,https://futureworkseries.com/,hello@m-mediaevents.com,,,hello@m-mediaevents.com,,,VidCruiter,VidCruiter,hirevue,1,valid_mx_email_found,
+jobsin.co.za,https://jobsin.co.za/,info@jobsin.co.za,info@jobsin.co.za,,,,,VidCruiter,VidCruiter,hirevue,1,valid_mx_email_found,
+knakdigital.com,https://knakdigital.com/,info@knakdigital.com,info@knakdigital.com,,,,,CodeSignal ; VidCruiter,VidCruiter,hirevue,1,valid_mx_email_found,
+smarthiring.tech,https://smarthiring.tech/,contact@elman.group,,,,contact@elman.group,,VidCruiter,VidCruiter,hirevue,1,valid_mx_email_found,
+thevisionbrands.com,https://thevisionbrands.com/,support@thevisionbrands.com,support@thevisionbrands.com,,,,,VidCruiter,VidCruiter,hirevue,1,valid_mx_email_found,
